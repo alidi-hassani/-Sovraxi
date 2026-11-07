@@ -1,3 +1,5 @@
+# -Sovraxi
+Outil local et open source qui détecte les secrets potentiellement exposés dans un dépôt Git et aide les développeurs à les corriger avant leur publication.
 # Sovraxi
 
 Sovraxi est un outil local d’analyse de dépôts. Il recherche des secrets exposés et certains motifs courants de code ou de configuration à risque. Il n’envoie aucun fichier vers Internet.
